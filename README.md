@@ -79,6 +79,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The challenges I faced and I am still facing is on how to correctly mysql error. This is my first time working with sql so it a little tough. This assignment is not absolutely complete. This is because I still have a few errors. However, it would be corrected and updated as soon as possible.
+
 ## License
 
     Copyright [2017] [Oluwasijibomi Ajisegiri]
