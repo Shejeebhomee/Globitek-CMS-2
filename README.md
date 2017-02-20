@@ -2,37 +2,37 @@
 
 # Project 2 - Input/Output Sanitization
 
-Time spent: **X** hours spent in total
+Time spent: **96** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-1\. [ ]  Required: Import the Starting Database
+1\. [x]  Required: Import the Starting Database
 
-2\. [ ]  Required: Set Up the Starting Code
+2\. [x]  Required: Set Up the Starting Code
 
-3\. [ ]  Required: Review code for Staff CMS for Users
+3\. [x]  Required: Review code for Staff CMS for Users
 
-4\. [ ]  Required: Complete Staff CMS for Salespeople
+4\. [x]  Required: Complete Staff CMS for Salespeople
   * [ ]  Required: index.php
   * [ ]  Required: show.php
   * [ ]  Required: new.php
   * [ ]  Required: edit.php
 
-5\. [ ]  Required: Complete Staff CMS for States
+5\. [x]  Required: Complete Staff CMS for States
   * [ ]  Required: index.php
   * [ ]  Required: show.php
   * [ ]  Required: new.php
   * [ ]  Required: edit.php
 
-6\. [ ]  Required: Complete Staff CMS for Territories
+6\. [x]  Required: Complete Staff CMS for Territories
   * [ ]  Required: index.php
   * [ ]  Required: show.php
   * [ ]  Required: new.php
   * [ ]  Required: edit.php
 
-7\. [ ]  Required: Add Data Validations
+7\. [x]  Required: Add Data Validations
   * [ ]  Required: Validate that no values are left blank.
   * [ ]  Required: Validate that all string values are less than 255 characters.
   * [ ]  Required: Validate that usernames contain only the whitelisted characters.
@@ -60,7 +60,7 @@ The following advanced user stories are optional:
 
 - [ ]  Bonus: Validate the uniqueness of `users.username`.
 
-- [ ]  Bonus: Add a page for "public/staff/users/delete.php".
+- [x]  Bonus: Add a page for "public/staff/users/delete.php".
 
 - [ ]  Bonus: Add a Staff CMS for countries.
 
@@ -71,7 +71,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/hmWo1h3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -81,7 +81,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Oluwasijibomi Ajisegiri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
