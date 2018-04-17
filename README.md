@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 3\. [x]  Required: Review code for Staff CMS for Users
 
 4\. [x]  Required: Complete Staff CMS for Salespeople
-  * [x ]  Required: index.php
+  * [x]  Required: index.php
   * [ ]  Required: show.php
   * [ ]  Required: new.php
   * [ ]  Required: edit.php
